@@ -7,5 +7,5 @@ background("white");
 }
 
 function background_color(){
-    rgb(70, 197, 207);
+    
 }
