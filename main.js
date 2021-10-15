@@ -7,5 +7,5 @@ background("white");
 }
 
 function background_color(){
-  document.getElementById("bg").style.backgroundColor="red";  
+  document.body.style.backgroundColor="red";  
 }
